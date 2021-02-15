@@ -1,0 +1,14 @@
+{
+  "name": "npm-6",
+  "version": "0.0.0-latest-6",
+  "description": "Depends on npm 6 to add it to the pool of dependencies even if your project already depends on another version of npm",
+  "author": "EIGHTFINITE",
+  "license": "MIT-0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EIGHTFINITE/npm-6.git"
+  },
+  "dependencies": {
+    "npm": "latest-6"
+  }
+}
